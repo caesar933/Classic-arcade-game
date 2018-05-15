@@ -12,3 +12,5 @@ The game was built using HTML 5, CSS and OOP JavaScript. The game has 1 index.ht
 The game has 2 objects, the character and the bugs, which are given movement and collision detection.
 
 # Play the game
+
+Click on this link: https://htmlpreview.github.io/?https://github.com/caesar933/Classic-arcade-game/blob/master/index.html
